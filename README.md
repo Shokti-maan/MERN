@@ -1,2 +1,2 @@
 # MERN
-Frontend development using the MERN technology
+Frontend development using the MERN technology.
